@@ -7,7 +7,7 @@
 🛠️ Currently learing Golang + Rust  
 🎀 Open source over everything  
 🍥 `curl -s https://ipfs.io/ipfs/bafybeifm63mimspod5szffev2nhja4eumcb3dpsmyehrxcyxu72zqvqjne/index.sh | bash`  *(👀 maybe don’t run that)*
-[mztriz.eth](https://mztriz.eth)
+🔗[mztriz.eth](https://mztriz.eth)
 ---
 
 [![Holopin board](https://holopin.io/api/user/board?user=mztriz)](https://holopin.io/@mztriz)
