@@ -5,9 +5,11 @@
 🎯 Ex-CCDC, still automating red team chaos  
 ⌨️ Clicky collector (Zelios supremacy)  
 🛠️ Currently learing Golang + Rust  
-🎀 Open source over everything  
-🍥 `curl -s https://ipfs.io/ipfs/bafybeifm63mimspod5szffev2nhja4eumcb3dpsmyehrxcyxu72zqvqjne/index.sh | bash`  *(👀 maybe don’t run that)*
+🎀 Open source over everything<br/>
 🔗[mztriz.eth](https://mztriz.eth)
+
+🍥 `curl -s https://ipfs.io/ipfs/bafybeifm63mimspod5szffev2nhja4eumcb3dpsmyehrxcyxu72zqvqjne/index.sh | bash`  *(👀 maybe don’t run that)*
+
 ---
 
 [![Holopin board](https://holopin.io/api/user/board?user=mztriz)](https://holopin.io/@mztriz)
