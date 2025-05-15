@@ -2,7 +2,7 @@
 
 💻 Playing on the internet  
 🧠 Working on myself (and my dotfiles)  
-🎯 Ex-CCDC, still automating red team chaos  
+🎯 Ex-[CCDC](https://www.nationalccdc.org/index.php/competition/about-ccdc/mission), still automating red team chaos  
 ⌨️ Clicky collector (Zelios supremacy)  
 🛠️ Currently learing Golang + Rust  
 🎀 Open source over everything<br/>
