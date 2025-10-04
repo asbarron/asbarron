@@ -4,9 +4,6 @@
 🧠 Working on myself (and my dotfiles)  
 🎯 Ex-[CCDC](https://www.nationalccdc.org/index.php/competition/about-ccdc/mission), still automating red team chaos  
 ⌨️ Clicky collector (Zelios supremacy)  
-🛠️ Currently learing Golang + Rust  
-🎀 Open source over everything<br/>
-🔗[mztriz.eth](https://mztriz.eth)
 
 🍥 `curl -s https://ipfs.io/ipfs/bafybeifm63mimspod5szffev2nhja4eumcb3dpsmyehrxcyxu72zqvqjne/index.sh | bash`  *(👀 maybe don’t run that)*
 
