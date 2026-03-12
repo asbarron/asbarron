@@ -9,7 +9,5 @@
 
 ---
 
-[![Holopin board](https://holopin.io/api/user/board?user=mztriz)](https://holopin.io/@mztriz)
+[![Solo Quest Player Card](https://kmgotmzgecyuxpexsgmu.supabase.co/functions/v1/player-card?id=8a1f2e2e-b037-49a0-b21f-d87ce4e829fb&theme=dracula)](https://solo-quest-glow.lovable.app)
 
----
-[![Ava's GH Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asbarron&theme=cotton-candy&area=true&hide_border=true)](https://github.com/asbarron/github-readme-activity-graph)
