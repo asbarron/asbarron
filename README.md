@@ -17,8 +17,6 @@
 
 ## 📚 Research
 
-I don't just ship code — I ship papers too.
-
 📄 **Published in [Springer Nature](https://doi.org/10.1007/978-3-642-39330-3_15)** — *A Knowledge Elicitation Study for Collaborative Dialogue Strategies Used to Handle Uncertainties in Speech Communication While Using GIS*
 
 🔬 **Interests:** AI/ML · Human-Computer Interaction
